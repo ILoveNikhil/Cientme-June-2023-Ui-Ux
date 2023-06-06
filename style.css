@@ -358,6 +358,7 @@ nav{
 }
 .post_img{
     width: 100%;
+    hight:15vh;
     border-radius: 4px;
     margin-bottom: 5px;
 }
