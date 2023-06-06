@@ -491,6 +491,7 @@ nav{
 }
 .cover_img{
     width: 100%;
+    height:15vh;
     border-radius:6px ;
     margin-bottom: 14px;
 }
